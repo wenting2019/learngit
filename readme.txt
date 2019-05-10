@@ -6,3 +6,4 @@ new added a line
 insert in new branch
 
 new added in branch
+test merge --no-ff!!!!1
